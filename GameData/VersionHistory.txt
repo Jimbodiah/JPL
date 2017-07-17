@@ -1,0 +1,54 @@
+
+1.2
+
+- [ProcParts] Added xenon tank option for NF fuels
+- [ProcParts] Removed size limitations due to other step sizes than SSTU
+- [kerbodynePlus] Added four smaller sizes of the XL Landing Legs
+- [stock] Fixed the Airbrake still blowing up on re-entry
+- [SSTU] Added a COS hab copy as tourist module that holds 12 kerbals.
+- [SSTU] Added probe core, reaction wheel and Ec storage to all three Tourist containers
+
+
+
+1.1
+
+- [stock] Raised max temperature on Airbrake to allow re-entry.
+- [KerbalReusabilityExpansion] Added a small amount of fuel to the SuperDracos to allow them to do a final braking burn upon landing.
+- [KerbalReusabilityExpansion] Lowered SUperDraco max thrust to bring it in line with SSTU Draco engines and be less OP.
+
+- [SSTU] Added two COS hab modules that functions as a tourist pod for 5 and 8 kerbals respectively.
+- [SSTU] A copy of the Radial Materials bay that also holds all other currently available experiments. A new upgraded part will unlock together with each new experiments in the TechTree, this way it will be available from the start of the game and progress up with the rest of the techtree (the old version was only available at the end of the techtree).
+
+
+
+1.0.2
+
+Tweaks
+- [SSTU] Added minor balancing tweak to RL10 engine variants to match wiki ratings.
+- [SSTU] Changed Soyuz DM pod to hold 3 crew instead of 2.
+- [SSTU] Added 1 Ec/s alternators to SSTU engines.
+- [SSTU] Set SSTU tanks to the Lightweight variant by default, handy if you do not use the boil-off system.
+- [SSTU] Add small reaction wheels to various SSTU parts, such as the Probe Core and HUS tank.
+- [SSTU] Balance science returns from SSTU Labs to 2x instead of the stock 5x.
+- [SSTU] Increase thrust of the Soyuz and Orion service module engines, I am just too impatient.
+- [stock] Take 100% science samples on the first time you sample, instead of requiring multiple samples.
+- [stock] Lower the altitudes at which chutes open on SSTU and Stock parts (because impatient).
+- [stock] Allow stock inflatable heat shield to deflate again.
+- [stock] Set all probe cores to hibernate during time warp to save a lot of energy.
+- [stock] Add Mechjeb to all probe cores and command modules.
+- [BDB] Added tweaks for Bluedog DB, mainly aardvark/block3 versions with TAC LS and adding SAS level 3 to pods.
+- [ProbesPlus] Move the 1x2 and 1x4 solar panels down one node and unlock them together with the stock folding solar panels.
+
+New Parts
+- [SSTU] Added LR87-LH2, an LHO engine variant about 1/2 thrust of a J2 (uses rescaled J2 model).
+- [SSTU] Added RL60, an LHO vacuum bell engine about 2x thrust of the RL10-B2 (uses rescaled RL10-B2 model).
+- [SSTU] Added RL10-C1 engine (uses the RL10-A3 model)
+- [SSTU] A copy of the Radial Materials Bay that also holds all the other science experiments, so your ship will not look fugly with all the experiments glued onto the sides. Materials and Goo can be reset as with the original parts. Unlocks new versions alongside new stock experiments.
+- [SSTU] Small size COS station module that only holds Ec, no crew (so just a very large battery in a COS shape)
+- [SSTU] Small and Medium sized COS station modules for USI or TAC LS resources, no crew.
+- [SSTU] Copies of the DOS COM station module that hold USI or TAC LS resources, 1 crew.
+- [SSTU] Copies of the medium COS station module configured to be used as the cargo section for an ATV-like resupply ship (USI/TAC).
+- [stock] A smaller version of the Science Box (same weight and cost) so that it does not look like a refrigerator stuck to the side.
+- [stock] A copy of the Vernier Engine that runs on Hydrolox (LH/O)
+- [Procedural Fairings] Four new Procedural Fairings shapes.
+- [StageRecovery] Added a module with probe core and large parachute in a single unit (model copied from the stock radial drogue chute). Requires StageRecovery.
