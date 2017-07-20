@@ -1,0 +1,9 @@
+
+Add science boxes to stock mk1 and mk1-2 pods
+Add science boxes to SSTU pods, lander pods and DOS LAB
+Add science boxes to BDB Gemini, Mercury, Apollo, LEM and AARDVARK pods
+
+Todo
+Add efficiency patch to all solarpanels while progression high up the techthree
+Add realplumes for JPL engines
+Add RS83 and RS100 engine
