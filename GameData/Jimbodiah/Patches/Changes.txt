@@ -6,6 +6,10 @@
 [BDB] Copy of the Aardvark cargo section with SSTUVolumeContainer functionality
 [RealPlume] Realplumes configs for JPL engines
 [DSEV] Support for all DSEV resources
+[DSEV] Added an SSTU COS station module with a clone of the large Fusion Reactor
+[DSEV] Added an SSTU COS station module with probecore, sas, reaction wheels, small fusion reactor and Lithium/MP storage
+[DSEV] Added an SSTU COS station module with probecore, sas, reaction wheels, large fusion reactor, but no fuel storage
+[SSTU] Added a COS station module with ISRU for Monoprop, Lithium, RocketParts, FusionPellets, Aerozine50/NTO
 
 
 
