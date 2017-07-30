@@ -1,4 +1,4 @@
 
-
-Todo
-Add efficiency patch to all solarpanels while progression high up the techthree
+- Added 2.5m Orion CM/CMX/BPC
+- Removed RocketParts conversion from ISRU (will come back in a seperate part later)
+- Changed size of ISRU from COS-XS to COS-S
