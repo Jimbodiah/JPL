@@ -1,4 +1,5 @@
 
-- Added 2.5m Orion CM/CMX/BPC
-- Removed RocketParts conversion from ISRU (will come back in a seperate part later)
-- Changed size of ISRU from COS-XS to COS-S
+[SSTU] Added 2.5m Orion CM/CMX/BPC
+[JPL] Removed RocketParts conversion from ISRU (will come back in a seperate part later)
+[JPL] Changed size of ISRU from COS-XS to COS-S
+[JPL] Added FTL Drives to COS-Miner and COS-Miner2
